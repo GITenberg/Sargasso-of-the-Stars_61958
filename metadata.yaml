@@ -1,10 +1,13 @@
 _repo: Sargasso-of-the-Stars_61958
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lynch, Don (Artist)
     gutenberg_agent_id: '51621'
     url: http://www.gutenberg.org/2009/agents/51621
+covers:
+- cover_type: archival
+  image_path: 61958-h/images/cover.jpg
 creator:
   author:
     agent_name: Kummer, Frederic Arnold
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '51610'
     url: http://www.gutenberg.org/2009/agents/51610
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61958#Sargasso-of-the-Stars
 gutenberg_issued: '2020-04-27'
 gutenberg_type: Text
 identifiers:
